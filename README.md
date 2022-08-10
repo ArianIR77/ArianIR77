@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arian
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning to become data scientist
+- 👀 I’m interested in Data Science because I love to solve world problems
+- 🌱 I’m currently pursuing a Master's degree in Data Science
 - 📫 How to reach me: arianmoslehi@gmail.com
 
 <!---
